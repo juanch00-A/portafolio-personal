@@ -19,7 +19,7 @@ export const HeroSection = () => {
           </button>
         </a>
         
-        <a href="../../public/Juan_Albarran_CV.pdf" download='CV' >
+        <a href="/Juan_Albarran_CV.pdf" download='CV' >
             <button   className="btn ml-4">
               Descargar CV
             </button>
