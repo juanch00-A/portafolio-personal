@@ -36,7 +36,7 @@ export const Navbar = () => {
                 <div className="mobile-menu block md:hidden">
                 <button 
                     onClick={() => setNavbarOpen(navbarOpen => !navbarOpen)}
-                    className="flex items-center px-3 py-2 border rounded border-slate-200 text-slate-200 hover:text-white hover:border-white" >
+                    className="flex items-center px-3 py-2 bg-white border rounded border-slate-200 text-slate-200 hover:text-white hover:border-white" >
                     
                 </button>
                 </div>
