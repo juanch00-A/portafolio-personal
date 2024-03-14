@@ -32,7 +32,7 @@ export const HeroSection = () => {
       <div className="max-w-[400px] lg:max-w-full">
         <div className="content  w-full h-[250px] sm:w-[300px] sm:h-[300px] md:w-[350px] md:h-[350px] lg:w-[430px] lg:h-[430px] relative">
           <img
-            src="../../public/img/hero-2.png"
+            src="/img/hero-2.png"
             alt="hero image"
             className="w-full h-full object-cover "
           />

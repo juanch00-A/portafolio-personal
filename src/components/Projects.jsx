@@ -7,42 +7,42 @@ const PortfolioSection = () => {
     {
       title: 'Landing de Tesla',
       description: 'Este proyecto es un clon de la página de Tesla, diseñado para replicar la apariencia y funcionalidad del sitio oficial. Utilizamos Astro para optimizar el rendimiento y Tailwind para el diseño y la estilización.',
-      image: '../../public/img/tesla.jpg',
+      image: '/img/tesla.jpg',
       link: 'https://landing-de-tesla.netlify.app/',
     },
 
     {
       title: 'Paleta de colores',
       description: 'Este proyecto es una aplicación web para explorar paletas de colores creada con React y CSS. Consumí una API para obtener paletas de colores y personalicé la apariencia utilizando CSS.',
-      image: '../../public/img/paleta.png',
+      image: '/img/paleta.png',
       link: 'https://palettepop-colors.netlify.app/'
     },
 
     {
       title: 'Pokedex',
       description: 'Este proyecto es una aplicación web para explorar Pokémon creada con React y CSS. Consumí la API de Pokémon para obtener información sobre los Pokémon, incluyendo sus detalles y estadísticas. Utilicé CSS para personalizar la apariencia de los componentes.',
-      image: '../../public/img/pikachu-pokedex.jpeg',
+      image: '/img/pikachu-pokedex.jpeg',
       link: 'https://pokedex-portafolio.netlify.app/'
     },
 
     {
       title: 'Sistema solar',
       description: 'Este proyecto es una representación interactiva del sistema solar. Utilicé HTML para estructurar la página, CSS para dar estilo a los elementos y JavaScript para animar los planetas y sus órbitas. ',
-      image: '../../public/img/sistema-solar.jpeg',
+      image: '/img/sistema-solar.jpeg',
       link: 'https://sistema-solar-animacion.netlify.app/'
     },
 
     {
       title: 'Blog de noticias',
       description: 'Este proyecto es un blog de noticias creado con React y Tailwind. Los usuarios pueden explorar artículos relevantes en un formato moderno y atractivo. ',
-      image: '../../public/img/blog.jpeg',
+      image: '/img/blog.jpeg',
       link: 'https://blog-de-noticias-tecnologicas.netlify.app/'
     },
 
     {
       title: 'Juego de memoria',
       description: 'Este proyecto es un juego de memoria creado con React y Tailwind. Los jugadores pueden explorar visualmente las cartas, voltearlas para encontrar parejas.',
-      image: '../../public/img/juego-memoria.jpeg',
+      image: '/img/juego-memoria.jpeg',
       link: 'https://juego-de-memoria-portafolio.netlify.app/'
     },
     
