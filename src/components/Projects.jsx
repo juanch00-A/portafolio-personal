@@ -62,7 +62,7 @@ const PortfolioSection = () => {
                 <img
                   src={project.image}
                   alt={project.title}
-                  className="w-full h-40 object-cover mb-4 rounded-lg "
+                  className="bli w-full h-40 object-cover mb-4 rounded-lg "
                 />
               </a>
               <h3 className="text-xl font-bold mb-2">{project.title}</h3>

@@ -30,8 +30,11 @@ export const Navbar = () => {
     return (
     <>
         <nav id="navbar" className="fixed mx-auto  top-0 left-0 right-0 z-10 bg-[#121212] bg-opacity-100 ">
-            <div className="flex container lg:py-4 flex-wrap items-center justify-between mx-auto px-4 py-2 ">
-                <a href='#home' className='text-2xl md:text-5xl text-white font-semibold'>J'<span className="text-[#C24CE9]">A</span></a>
+            <div className="flex container lg:py-4 flex-wrap items-center justify-between mx-auto px-4 py-4 ">
+                <a href='#home' className='text-10xl md:text-5xl text-white font-semibold'>
+                    
+                    <img src="/svg/invader.svg" alt="" />
+                </a>
 
                 <div className="mobile-menu block md:hidden">
                 <button 

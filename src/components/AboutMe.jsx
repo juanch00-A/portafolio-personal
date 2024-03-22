@@ -6,7 +6,7 @@ const AboutMe = () => {
     <section id="about"  className="flex flex-col py-40 items-center justify-center gap-8 text-gray-700 dark:text-gray-300 md:flex-row">
       <div className="[&>p]:mb-4  dark:[&>p>strong]:text-yellow-100 [&>p>strong]:font-normal [&>p>strong]:font-mono text-pretty order-2 md:order-1">
       <h2 className="flex items-center mb-6 text-3xl font-semibold gap-x-8 text-black/80 dark:text-white"> 
-      <img src="/svg/dog.svg" alt="dog" />
+      <img src="/svg/invader.svg" alt="invader" />
         Sobre mí
       </h2>
         <p>
@@ -34,7 +34,7 @@ const AboutMe = () => {
         height="200"
         src="/img/hero-2.png"
         alt={personalImageAlt}
-        className="order-1 object-cover w-64 h-full p-1 md:order-2 rotate-3 lg:p-2 lg:w-64 aspect-square rounded-2xl bg-black/20 dark:bg-yellow-500/5 ring-1 ring-black/70 dark:ring-white/20"
+        className="bli order-1 object-cover w-64 h-full p-1 md:order-2 rotate-3 lg:p-2 lg:w-64 aspect-square rounded-2xl bg-black/20 dark:bg-yellow-500/5 ring-1 ring-black/70 dark:ring-white/20"
       />
     </section>
   );

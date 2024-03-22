@@ -103,7 +103,7 @@ export const Skills = () => {
                     <div
                         key={id} 
                         className={`shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style} flex flex-col justify-center items-center`} > 
-                        <img src={src} alt="" className="w-20 h-20 object-cover mb-4" /> <p className="mt-4">{title}</p> 
+                        <img src={src} alt="" className="bli w-20 h-20 object-cover mb-4" /> <p className="mt-4">{title}</p> 
                     </div> ))} 
                 </div>
                 

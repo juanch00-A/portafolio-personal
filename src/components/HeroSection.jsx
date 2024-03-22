@@ -34,7 +34,7 @@ export const HeroSection = () => {
           <img
             src="/img/hero-2.png"
             alt="hero image"
-            className="w-full h-full object-cover "
+            className="bli w-full h-full object-cover "
           />
         </div>
       </div>
